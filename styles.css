@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #F0F9FF;  
+}
+
+.middleLinks {
+    font-family: 'Inter';
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -17.5px;
+    left: -70px;
+}
+
+.middleLinks li {
+    display: inline;
+    padding-left: 30px;
+}
+
+.logo {
+    text-align: center;
+    position: relative;
+    top: 22px;
+    left: -600px;
+}
+
+.socialMediaIcons {
+    text-align: center;
+    position: relative;
+    top: -52px;
+    left: 420px;
+}
+
+.socialMediaIcons li {
+    display: inline;
+    padding-left: 30px;
+}
+
+.downloadButton {
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: bolder;
+    width: 145.41px;
+    height: 53px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
